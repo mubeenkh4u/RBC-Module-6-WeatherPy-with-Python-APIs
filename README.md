@@ -1,4 +1,4 @@
-# RBC-Module-6-WeatherPy-with-Python-APIs
+# World-Weather-Analysis-Python-APIs
 
 This project focuses on the usage of Google API and OpenWeather API to acquire data. After the data retreival process it is filtered by user based critera.
 
